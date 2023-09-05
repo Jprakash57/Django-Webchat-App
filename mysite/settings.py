@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-(s4844q9i*_xj$b+^lf15*rz08^7$0#%$xyn2(+vfi3mn(^!wh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://jprakash57.github.io/Django-Webchat-App/']
 
 
 # Application definition
